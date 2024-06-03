@@ -1,0 +1,8 @@
+print("Hello World")
+print("Hello Sir")
+print("Hello Dad")
+print("Hello Mom")
+print(2+2)
+print(2-2)
+print(2*2)
+print(2/2)
