@@ -1,0 +1,6 @@
+print("Hi", "Sourav", "Banik",end=" ")
+print("Hi", "Sourav", "Banik")
+print("Hi", "Sourav", "Banik",end="\t")
+print("Hi", "Sourav", "Banik")
+print("Hi", "Sourav", "Banik",sep="-",end="\t")
+print("Hi", "Sourav", "Banik")
